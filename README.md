@@ -26,4 +26,6 @@ If you do not have Python installed yet, it is highly recommended that you insta
              faces.
 * haarcascade- This xml file is used for face detection.
 
+![Capture](https://user-images.githubusercontent.com/46081301/60452308-e16ce080-9c4b-11e9-89ab-3abe5c9c1121.PNG)
+
 
